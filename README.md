@@ -1,6 +1,6 @@
-# Next DnD FormBuilder
+# formcraft
 
-Next DnD FormBuilder is a drag-and-drop form builder built with Next.js, Prisma, and TypeScript. This project allows users to create dynamic forms by simply dragging and dropping form elements onto a canvas. Below is an overview of the project structure and setup instructions.
+FormCraft is a drag-and-drop form builder built with Next.js, Prisma, and TypeScript. This project allows users to create dynamic forms by simply dragging and dropping form elements onto a canvas. Below is an overview of the project structure and setup instructions.
 
 ## Prerequisites
 
